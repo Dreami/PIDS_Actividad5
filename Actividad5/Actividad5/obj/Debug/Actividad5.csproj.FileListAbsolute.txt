@@ -1,0 +1,8 @@
+c:\users\maple\documents\visual studio 2015\Projects\Actividad5\Actividad5\bin\Debug\Actividad5.exe.config
+C:\Users\maple\Documents\Visual Studio 2015\Projects\Actividad5\Actividad5\bin\Debug\Actividad5.exe
+C:\Users\maple\Documents\Visual Studio 2015\Projects\Actividad5\Actividad5\bin\Debug\Actividad5.pdb
+C:\Users\maple\Documents\Visual Studio 2015\Projects\Actividad5\Actividad5\bin\Debug\FileOutputs.dll
+C:\Users\maple\Documents\Visual Studio 2015\Projects\Actividad5\Actividad5\bin\Debug\FileOutputs.pdb
+C:\Users\maple\Documents\Visual Studio 2015\Projects\Actividad5\Actividad5\obj\Debug\Actividad5.csprojResolveAssemblyReference.cache
+C:\Users\maple\Documents\Visual Studio 2015\Projects\Actividad5\Actividad5\obj\Debug\Actividad5.exe
+C:\Users\maple\Documents\Visual Studio 2015\Projects\Actividad5\Actividad5\obj\Debug\Actividad5.pdb
